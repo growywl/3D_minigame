@@ -36,19 +36,28 @@
 - `src/3.model_loading/1.model_loading/1.model_loading.vs`
 - `src/3.model_loading/1.model_loading/1.model_loading.fs`
 
-## Assets Needed
-ให้มีไฟล์เหล่านี้ใน `LearnOpenGL-master/resources` (หรือ `resourse` ได้ เพราะโค้ดมี fallback):
+## Assets 
 - `FarmerPack/Character/Farmer/SKM_Farmer_male.fbx`
 - `gold_coin_low_poly/source/GoldCoin/coin.fbx`
 - `interior_building_scene/textures/FloorTiles_baseColor.jpeg`
 - `interior_building_scene/textures/WoodTrim_baseColor.jpeg`
 
-## Build/Run (CLion)
-1. วางไฟล์ source/shader ไปที่บท `3.model_loading/1.model_loading`
-2. Reload CMake Project
-3. Build target: `3.model_loading__1.model_loading`
-4. Run
-
 ## Known Notes
 - โมเดลผู้เล่นยังเป็น **static pose** (ไม่มี skeletal animation runtime)
-- ถ้าตัวละครหันกลับด้านในบาง asset ให้ปรับ offset มุมที่บรรทัดคำนวณ `playerYaw`
+
+## Assets / Credits
+Special Thanks to:
+-- Farmer Character Model  
+  Source: https://www.fab.com/listings/262fde27-6950-4030-b2b7-82892d406471 
+  Author: Unreal Engine 
+  License: CC-BY 4.0  
+
+- Gold Coin Model  
+  Source: [https://sketchfab.com/... ](https://sketchfab.com/3d-models/lowpoly-gold-coin-34794c00e9d140f6b86e930fef18b009) 
+  Author: BlobFortress 
+  License: CC-BY 4.0
+
+-Based code & texture
+  source: https://github.com/JoeyDeVries/LearnOpenGL
+
+
