@@ -1,6 +1,6 @@
 # Simple 3D Coin Game (LearnOpenGL)
 
-https://github.com/user-attachments/assets/bf8270e8-4fb6-474a-b5cb-83fe0ee52ac1
+[https://github.com/user-attachments/assets/bf8270e8-4fb6-474a-b5cb-83fe0ee52ac1](https://github.com/user-attachments/assets/c102b555-03f3-4dec-8df3-3304206d0a32)
 
 โปรเจกต์นี้พัฒนาต่อจาก `3.model_loading/1.model_loading` โดยทำเป็นมินิเกมเก็บเหรียญให้ครบตามโจทย์:
 - โหลดโมเดล 3D จากไฟล์
