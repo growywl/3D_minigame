@@ -46,18 +46,17 @@
 - โมเดลผู้เล่นยังเป็น **static pose** (ไม่มี skeletal animation runtime)
 
 ## Assets / Credits
-Special Thanks to:
+Special Thanks to
 -- Farmer Character Model  
   Source: https://www.fab.com/listings/262fde27-6950-4030-b2b7-82892d406471 
   Author: Unreal Engine 
   License: CC-BY 4.0  
-
-- Gold Coin Model  
+-- Gold Coin Model  
   Source: [https://sketchfab.com/... ](https://sketchfab.com/3d-models/lowpoly-gold-coin-34794c00e9d140f6b86e930fef18b009) 
   Author: BlobFortress 
   License: CC-BY 4.0
 
--Based code & texture
+--Based code & texture
   source: https://github.com/JoeyDeVries/LearnOpenGL
 
 
